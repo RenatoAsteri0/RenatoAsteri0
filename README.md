@@ -25,10 +25,12 @@ Busco oportunidades como desenvolvedor Python júnior, aplicando meu conheciment
   📧 E-mail: renato.asterio@hotmail.com<br>
   📱 WhatsApp: <a href="https://wa.me/5519996234793" target="_blank">Clique para conversar</a><br>
 </p>
-
 <p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/renatoasterio" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/renatoasterio/" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/renatoasterio" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/renatoasterio/" title="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
+
