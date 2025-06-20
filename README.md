@@ -21,10 +21,10 @@ Busco oportunidades como desenvolvedor Python júnior, aplicando meu conheciment
 </p>
 
 <p align="left">
-  💌 Abaixo estão as melhores formas de entrar em contato comigo:
-  📧 E-mail: renato.asterio@hotmail.com
-  📱 WhatsApp: Clique para conversar
-  🔗 LinkedIn: linkedin.com/in/renatoasterio
+  💌 Abaixo estão as melhores formas de entrar em contato comigo:<br>
+  📧 E-mail: renato.asterio@hotmail.com<br>
+  📱 WhatsApp: <a href="https://wa.me/5519996234793" target="_blank">Clique para conversar</a><br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/renatoasterio" target="_blank">linkedin.com/in/renatoasterio</a>
 </p>
 
 <p align="left">
