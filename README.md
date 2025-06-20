@@ -13,15 +13,18 @@ Busco oportunidades como desenvolvedor Python júnior, aplicando meu conheciment
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python
+  🦄 Linguagens: 🐍 Python
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: Selenium · Git · PyCharm · Power Automate · AWS Cloud · GitHub · Vmware · VirtualBox · Linux
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Abaixo estão as melhores formas de entrar em contato comigo:
+  📧 E-mail: renato.asterio@hotmail.com
+  📱 WhatsApp: Clique para conversar
+  🔗 LinkedIn: linkedin.com/in/renatoasterio
 </p>
 
 <p align="left">
