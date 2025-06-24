@@ -8,8 +8,7 @@
 Saudações! Meu nome é Renato de Lima Asterio, tenho 23 anos e sou natural de São Paulo.
 Sou formado em Redes de Computadores pela FATEC e atualmente atuo como analista de redes, com certificação CCNA — conquista que impactou diretamente minha trajetória profissional.
 Tenho grande interesse por automação e dados, e venho direcionando minha carreira para a área de desenvolvimento Python, com foco em automação inteligente.
-Atualmente, estou me preparando para a certificação AWS Certified AI Practitioner e desenvolvendo projetos práticos com Python, Selenium e serviços em nuvem.
-Busco oportunidades como desenvolvedor Python júnior, aplicando meu conhecimento técnico e minha paixão por soluções automatizadas.
+Atualmente, estou me preparando para a certificação AWS Certified AI Practitioner e desenvolvendo projetos práticos com Python.
 </p>
 
 <p align="left">
