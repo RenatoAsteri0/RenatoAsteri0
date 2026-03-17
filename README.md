@@ -6,8 +6,8 @@
 
 <p align="left"> 
 Saudações! Meu nome é Renato de Lima Asterio, tenho 24 anos e sou natural de São Paulo.
-Formado em Redes de Computadores, atuando como `analista de segurança de dados` no Grupo Ultra, sou certificado AWS Prqactitoner, IA, Databricks e CCNA (era de redes).
-Sou desenvolvedor `Python`focado em automações e pipeline de dados.
+Formado em Redes de Computadores, atuando como analista de segurança de dados no Grupo Ultra, sou certificado AWS Prqactitoner, IA, Databricks e CCNA (era de redes).
+Sou desenvolvedor Python focado em automações e pipeline de dados.
 </p>
 
 <p align="left">
