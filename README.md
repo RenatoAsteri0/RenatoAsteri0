@@ -5,10 +5,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Saudações! Meu nome é Renato de Lima Asterio, tenho 23 anos e sou natural de São Paulo.
-Sou formado em Redes de Computadores pela FATEC e atualmente atuo como analista de redes, com certificação CCNA — conquista que impactou diretamente minha trajetória profissional.
-Tenho grande interesse por automação e dados, e venho direcionando minha carreira para a área de desenvolvimento Python, com foco em automação inteligente.
-Atualmente, estou me preparando para a certificação AWS Certified AI Practitioner e desenvolvendo projetos práticos com Python.
+Saudações! Meu nome é Renato de Lima Asterio, tenho 24 anos e sou natural de São Paulo.
+Formado em Redes de Computadores, atuando como `analista de segurança de dados` no Grupo Ultra, sou certificado AWS Prqactitoner, IA, Databricks e CCNA (era de redes).
+Sou desenvolvedor `Python`focado em automações e pipeline de dados.
 </p>
 
 <p align="left">
@@ -16,7 +15,7 @@ Atualmente, estou me preparando para a certificação AWS Certified AI Practitio
 </p>
 
 <p align="left">
-  💼 Ferramentas: Selenium · Git · PyCharm · Power Automate · AWS Cloud · GitHub · Vmware · VirtualBox · Linux
+  💼 Ferramentas: Airflow · Pandas · APIRest · Web Scraper · SQL · Matplotlib · Docker
 </p>
 
 <p align="left">
