@@ -1,8 +1,7 @@
-# Hi, I'm Renato
+# Hello Devs!
 <img
   src="https://github.com/user-attachments/assets/6b814e50-8fd6-4bf4-92cf-c8baacc14e68"
-  alt="Ilustração de computador"
-  width="400"
+  width="1000"
   align="left"
 />
 Hello! I'm an enthusiastic Data Engineering student from São Paulo, Brazil.
