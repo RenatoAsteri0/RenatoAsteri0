@@ -1,7 +1,4 @@
-# 🖥️ Renato Asterio
-
-**`Data Engineer`**
-
+# Data Engineer 🖥️ Renato Asterio
 <img
   src="https://github.com/user-attachments/assets/024de619-3611-4339-9236-4b7fcba1b70f"
   alt="Foto de Renato"
