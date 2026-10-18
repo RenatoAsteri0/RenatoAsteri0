@@ -1,13 +1,18 @@
 # 🖥️ Renato Asterio
 
-**`Desenvolvedor Python`**
+**`Data Engineer`**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Saudações! Meu nome é Renato de Lima Asterio, tenho 24 anos e sou natural de São Paulo.
-Formado em Redes de Computadores, atuando como analista de segurança de dados no Grupo Ultra, sou certificado AWS Practitioner, IA, Databricks e CCNA (era de redes).
-Sou desenvolvedor Python focado em automações e pipeline de dados.
+Hello! I'm an enthusiastic Data Engineering student from São Paulo, Brazil.
+My main skills are Python applied to Data Engineering and Data Analysis. I'm a curious person who is always looking for ways to automate tasks, ask questions, and explore alternative solutions.
+
+Feel free to explore my repositories! I hope you find something interesting, and I'd be happy to connect with you.
+I also hold the following certifications:
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+- Databricks Fundamentals
 </p>
 
 <p align="left">
@@ -15,11 +20,11 @@ Sou desenvolvedor Python focado em automações e pipeline de dados.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Airflow · Pandas · APIRest · Web Scraper · SQL · Matplotlib · Docker
+  💼 Skills: Airflow · Databrics · GCP · Web Scraper · SQL · Docker
 </p>
 
 <p align="left">
-  💌 Abaixo estão as melhores formas de entrar em contato comigo:<br>
+  Below are the best ways to get in touch with me:<br>
   📧 E-mail: renato.asterio@hotmail.com<br>
   📱 WhatsApp: <a href="https://wa.me/5519996234793" target="_blank">Clique para conversar</a><br>
 </p>
