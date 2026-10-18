@@ -1,13 +1,10 @@
-# Data Engineer 🖥️ Renato Asterio
+# Hi, I'm Renato
 <img
-  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+  src="https://github.com/user-attachments/assets/6b814e50-8fd6-4bf4-92cf-c8baacc14e68"
   alt="Ilustração de computador"
   width="400"
-  align="right"
+  align="left"
 />
-
-<br clear="both">
-<p align="left"> 
 Hello! I'm an enthusiastic Data Engineering student from São Paulo, Brazil.
 My main skills are Python applied to Data Engineering and Data Analysis. I'm a curious person who is always looking for ways to automate tasks, ask questions, and explore alternative solutions.
 
