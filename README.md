@@ -3,6 +3,7 @@
 **`Data Engineer`**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img width="4344" height="5792" alt="IMG_2097" src="https://github.com/user-attachments/assets/024de619-3611-4339-9236-4b7fcba1b70f" />
 
 <p align="left"> 
 Hello! I'm an enthusiastic Data Engineering student from São Paulo, Brazil.
