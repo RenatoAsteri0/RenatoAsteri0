@@ -2,12 +2,21 @@
 
 **`Data Engineer`**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <img
   src="https://github.com/user-attachments/assets/024de619-3611-4339-9236-4b7fcba1b70f"
-  alt="Foto de perfil"
+  alt="Foto de Renato"
   width="200"
+  align="left"
 />
+
+<img
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+  alt="Ilustração de computador"
+  width="400"
+  align="right"
+/>
+
+<br clear="both">
 <p align="left"> 
 Hello! I'm an enthusiastic Data Engineering student from São Paulo, Brazil.
 My main skills are Python applied to Data Engineering and Data Analysis. I'm a curious person who is always looking for ways to automate tasks, ask questions, and explore alternative solutions.
